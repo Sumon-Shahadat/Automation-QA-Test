@@ -1,7 +1,7 @@
 # QA Portfolio
 
 ## Overview
-This portfolio presents the _Automation test_ for Mobile and Web QA. The Following project folders contain just only test scripts which are created with **GUI Testing** and testing platforms like ***Blazemeter, Sauce Labs*** or ***Flood***.
+This portfolio presents the _Automation test_ for Mobile and Web QA. The Following project folders contain just only test scripts which are created with **GUI Testing** and testing platforms like ***[Blazemeter](https://www.blazemeter.com/), [Sauce Labs](https://saucelabs.com/)*** or ***[Flood](https://www.flood.io/)***.
 
 ## Methodologies
 - Load Test
